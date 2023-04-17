@@ -40,8 +40,8 @@ class SocailMediaLinks extends StatelessWidget {
                     ),
                     leading: (Image.asset(
                       "assets/linkedin-removebg-preview.png",
-                      height: 30,
-                      width: 30,
+                      height: 40,
+                      width: 40,
                     )),
                     onTap: () {
                       launchUrl(linkedin);
