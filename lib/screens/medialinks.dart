@@ -39,7 +39,7 @@ class SocailMediaLinks extends StatelessWidget {
                       style: TextStyle(fontSize: 18),
                     ),
                     leading: (Image.asset(
-                      "assets/linkedin-removebg-preview.png",
+                      "assets/linkedin.png",
                       height: 40,
                       width: 40,
                     )),
@@ -55,7 +55,7 @@ class SocailMediaLinks extends StatelessWidget {
                       style: TextStyle(fontSize: 18),
                     ),
                     leading: (Image.asset(
-                      "assets/github-removebg-preview.png",
+                      "assets/github.png",
                       height: 40,
                       width: 40,
                     )),
@@ -71,7 +71,7 @@ class SocailMediaLinks extends StatelessWidget {
                       style: TextStyle(fontSize: 18),
                     ),
                     leading: (Image.asset(
-                      "assets/twitter-removebg-preview.png",
+                      "assets/twitter.png",
                       height: 40,
                       width: 40,
                     )),
@@ -87,7 +87,7 @@ class SocailMediaLinks extends StatelessWidget {
                       style: TextStyle(fontSize: 18),
                     ),
                     leading: (Image.asset(
-                      "assets/insta-removebg-preview.png",
+                      "assets/instagram.png",
                       height: 40,
                       width: 40,
                     )),
