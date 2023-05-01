@@ -38,11 +38,11 @@ class SocailMediaLinks extends StatelessWidget {
                       'LinkedIn',
                       style: TextStyle(fontSize: 18),
                     ),
-                    leading: (Image.asset(
-                      "assets/linkedin.png",
-                      height: 40,
-                      width: 40,
-                    )),
+                    // leading: (Image.asset(
+                    //   "assets/linkedin.png",
+                    //   height: 40,
+                    //   width: 40,
+                    // )),
                     onTap: () {
                       launchUrl(linkedin);
                     }),
@@ -54,11 +54,11 @@ class SocailMediaLinks extends StatelessWidget {
                       'GitHub',
                       style: TextStyle(fontSize: 18),
                     ),
-                    leading: (Image.asset(
-                      "assets/github.png",
-                      height: 40,
-                      width: 40,
-                    )),
+                    // leading: (Image.asset(
+                    //   "assets/github.png",
+                    //   height: 40,
+                    //   width: 40,
+                    // )),
                     onTap: () {
                       launchUrl(gitHub);
                     }),
@@ -70,11 +70,11 @@ class SocailMediaLinks extends StatelessWidget {
                       'Twitter',
                       style: TextStyle(fontSize: 18),
                     ),
-                    leading: (Image.asset(
-                      "assets/twitter.png",
-                      height: 40,
-                      width: 40,
-                    )),
+                    // leading: (Image.asset(
+                    //   "assets/twitter.png",
+                    //   height: 40,
+                    //   width: 40,
+                    // )),
                     onTap: () async {
                       launchUrl(twitter);
                     }),
@@ -86,11 +86,11 @@ class SocailMediaLinks extends StatelessWidget {
                       'Instagram',
                       style: TextStyle(fontSize: 18),
                     ),
-                    leading: (Image.asset(
-                      "assets/instagram.png",
-                      height: 40,
-                      width: 40,
-                    )),
+                    // leading: (Image.asset(
+                    //   "assets/instagram.png",
+                    //   height: 40,
+                    //   width: 40,
+                    // )),
                     onTap: () async {
                       launchUrl(instagram);
                     }),
