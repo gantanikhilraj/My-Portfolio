@@ -14,7 +14,7 @@ Lastly, my portfolio also includes links to my social media profiles. In today's
 
 Overall, my portfolio app is a reflection of my personal and professional journey. It captures my education, experience, and social media presence, all in one place, making it easy for anyone to get to know me and my work. I believe that this application is an essential tool for anyone looking to showcase their skills, experience, and personality to potential employers or clients.
 
-#Install
+# Install
 flutter pub get
 
 #Run
