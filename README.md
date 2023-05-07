@@ -17,5 +17,5 @@ Overall, my portfolio app is a reflection of my personal and professional journe
 # Install
 flutter pub get
 
-#Run
+# Run
 flutter run
