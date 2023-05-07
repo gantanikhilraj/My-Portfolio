@@ -61,11 +61,11 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  assets:
-    - linkedin-removebg-preview.png
-    - github-removebg-preview.png
-    - twitter-removebg-preview.png
-    - insta-removebg-preview.png
+  # assets:
+    # - linkedin.png
+    # - github.png
+    # - twitter.png
+    # - instagram.png
     # - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
