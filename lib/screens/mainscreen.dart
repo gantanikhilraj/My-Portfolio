@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:my_portfolio/screens/aboutscreen.dart';
+import 'package:my_portfolio/screens/drawerscreen.dart';
 import 'package:my_portfolio/screens/educationscreen.dart';
 import 'package:my_portfolio/screens/experience.dart';
 import 'package:my_portfolio/screens/medialinks.dart';
@@ -23,8 +24,8 @@ class MainScreen extends StatelessWidget {
           ),
         ),
         child: Scaffold(
+          drawer: DrawerL(),
           backgroundColor: Colors.transparent,
-          // drawer: Drawer(),
           appBar: AppBar(
             // elevation: 0.5,
             backgroundColor: Colors.black,
